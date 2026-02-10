@@ -1,0 +1,8 @@
+
+{
+  "name": "Lumina Books",
+  "description": "A premium, modern online bookstore with AI-powered discovery, integrated checkout, and a full admin dashboard for inventory and order management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
